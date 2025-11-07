@@ -1,0 +1,22 @@
+{
+  "鏡餅": {
+    "english": "Kagami Mochi - A stack of rice cakes offered to the New Year deity to bring prosperity.",
+    "file": "kagamimochi.png"
+  },
+  "門松": {
+    "english": "Kadomatsu - Pine and bamboo decoration placed at the entrance to welcome the New Year gods.",
+    "file": "kadomatsu.png"
+  },
+  "だるま": {
+    "english": "Daruma - A red round doll symbolizing perseverance and good luck.",
+    "file": "daruma.png"
+  },
+  "年賀状": {
+    "english": "Nengajo - New Year greeting cards sent to express gratitude and wishes for the coming year.",
+    "file": "nengajo.png"
+  },
+  "おせち": {
+    "english": "Osechi - Traditional Japanese New Year dishes packed in layered boxes.",
+    "file": "osechi.png"
+  }
+}
